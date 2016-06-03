@@ -1,7 +1,7 @@
 {
   "name": "chartist-plugin-mousetrap",
   "main": [
-    "./src/chartist-plugin-mousetrap.min.js"
+    "./src/chartist-plugin-mousetrap.js"
   ],
   "dependencies": {
     "chartist": "~0.9.4"

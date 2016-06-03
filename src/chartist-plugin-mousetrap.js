@@ -1,6 +1,6 @@
 /**
  * Chartist.js plugin to enable mouse events.
- *
+ * Wasim Nahvi
  */
 /* global Chartist */
 (function (window, document, Chartist) {

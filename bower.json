@@ -1,11 +1,15 @@
 {
   "name": "chartist-plugin-mousetrap",
+  "description": "Chartist plugin to capture mouse events",
   "main": [
     "./src/chartist-plugin-mousetrap.js"
   ],
   "dependencies": {
     "chartist": "~0.9.4"
   },
+  "authors": [
+    "wnahvi <wasim.nahvi@gmail.com>"
+  ],
   "ignore": [
     ".*",
     "Gruntfile.js",
